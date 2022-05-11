@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1652265084 source:c:\users\pablo\documents\c++\organizadorproductospap\src\producto.cpp
+	"Producto.h"
+
+1652265083 c:\users\pablo\documents\c++\organizadorproductospap\include\producto.h
+	"Header.h"
+
+1652289917 c:\users\pablo\documents\c++\organizadorproductospap\include\header.h
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<vector>
+
+1652265282 source:c:\users\pablo\documents\c++\organizadorproductospap\main.cpp
+	<codecvt>
+	<locale>
+	"Header.h"
+	"Producto.h"
+
